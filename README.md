@@ -1,0 +1,1 @@
+# Art-Career-Insights-platform
