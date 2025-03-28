@@ -58,5 +58,9 @@ dependencies
 https://public.tableau.com/views/Book1_17431279177920/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
+##Embed in GitHub Pages (Static Website)
+https://harshithak01.github.io/Art-Career-Insights-platform/dashboard.html
+
+![image](https://github.com/user-attachments/assets/bbfcb288-229a-4ab1-b7bd-c1dd13217ee5)
 
 
