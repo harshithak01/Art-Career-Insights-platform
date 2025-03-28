@@ -55,7 +55,7 @@ art-career-insights/ ├── client/ # React frontend │ ├── public/ # 
 dependencies
 
 ##Link to a Published Tableau Dashboard
-https://public.tableau.com/views/Book1_17431279177920/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/harshitha.kapalavayi/viz/Book1_17431348990250/Dashboard1?publish=yes
 
 
 ##Embed in GitHub Pages (Static Website)
