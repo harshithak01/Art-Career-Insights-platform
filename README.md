@@ -1,50 +1,25 @@
-# Art Career Insights Platform
+# Art Career Insights Platform  
+A web-based dashboard application to help freelance artists, job seekers, and recruiters analyze trends in the creative job market.
 
-## Project Overview
+## Project Description
 
-The Art Career Insights Platform is a web-based analytics application designed to support freelance artists, job seekers, and recruiters by providing meaningful insights into the creative job market.
+The Art Career Insights Platform is designed to provide users with a comprehensive view of the art-related job landscape. By combining visual analytics and interactive filtering, the platform enables job seekers to understand hiring trends, compare salary benchmarks, and identify in-demand skills for various creative roles.
 
-The platform focuses on:
+This project empowers freelance artists and aspiring professionals to make informed career decisions by offering a data-driven perspective of the job market.
 
-- Visualizing job posting trends over time
-- Understanding salary benchmarks across different art roles
-- Identifying in-demand skills required by employers
-- Allowing exploration by job role, company, location, and employment type
+## Table of Contents
 
-This tool empowers users to make data-informed decisions about their careers, pricing, and skill development.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Live Dashboard](#live-dashboard)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-## What We Have Done
+## Installation
 
-- Collected and cleaned a dataset of 957 unique art-related job postings from LinkedIn.
-- Created a Tableau-ready dataset with relevant fields such as job title, salary, location, skills, and company.
-- Designed and built the first Tableau dashboard: Job Trends & Insights, which includes:
-  - Job Postings Over Time
-  - Job Postings by Location
-  - Job Postings by Company
-  - Job Postings by Employment Type
-- Published the dashboard using Tableau Public.
-- Developed calculated fields such as simulated posting dates to allow for timeline-based visualizations.
-- Documented the purpose and benefit of each visualization, especially for job seekers in the art field.
-
-## What We Are Going To Do
-
-- Complete the remaining Tableau dashboards:
-  - Dashboard 2: Salary and Pricing Insights
-  - Dashboard 3: Skills and Job Demand Analysis
-- Develop the web application with the following stack:
-  - Frontend: React.js
-  - Backend: Node.js and Express
-  - Database (if needed): MongoDB
-- Embed Tableau dashboards into the web application using public shareable links.
-- Add frontend features like filters for role, location, and employment type.
-- Deploy the full-stack application for demonstration and evaluation.
-- Finalize project documentation and prepare the academic presentation.
-
-## Technologies Used
-
-- Tableau Public
-- React.js (Frontend)
-- Node.js and Express (Backend)
-- MongoDB (Optional)
-- CSV data (static, cleaned job dataset)
+1. Clone the repository:
+```bash
 
