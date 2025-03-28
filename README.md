@@ -63,4 +63,9 @@ https://harshithak01.github.io/Art-Career-Insights-platform/dashboard.html
 
 ![image](https://github.com/user-attachments/assets/bbfcb288-229a-4ab1-b7bd-c1dd13217ee5)
 
+##Contribution
+Harshitha- Team Lead
+
+## LIcence
+MIT License
 
