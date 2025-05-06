@@ -73,11 +73,12 @@ Once the application is running, users can:
 Navigate through the embedded dashboards
 
 Apply filters such as location, company, and employment type
-##Project Structure
+
 
 Analyze trends and insights based on the cleaned job dataset
 
 ### Features
+---
 
 User Authentication (Sign up/Login)
 
@@ -91,15 +92,20 @@ Location and employment-type based insights
 
 Clean and responsive UI
 
+##Project Structure
+---
+
 art-career-insights/ ├── client/ # React frontend │ ├── public/ # Static assets (HTML, icons, etc.) │ ├── src/ # React components, pages, and styles │ │ ├── components/ # Reusable UI components │ │ ├── pages/ # Dashboard pages │ │ └── App.js # Main React app file │ └── package.json # Frontend dependencies │ ├── server/ # Node.js backend │ ├── routes/ # API endpoints │ ├── models/ # Data models (if using MongoDB) │ └── server.js # Main server setup │ ├── data/ # Cleaned CSV dataset for Tableau │ └── Deduplicated_Artist_Roles.csv │ ├── README.md # Project documentation ├── .gitignore # Git ignored files └── package.json # Backend 
 dependencies
 
 ##Link to a Published Powerbi Dashboard
+---
 <iframe title="Art Career Insights Dashboard" width="100%" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiYzI4NWQzOTQtNjE1Yy00N2Q2LWI1MzgtMGNmMjc3N2I5Yjc1IiwidCI6IjgzYzE3ZDkwLTU4MzItNDhiOS04ZWYyLWIyMGY3NjJlYWZiNSIsImMiOjN9&navContentPaneEnabled=false" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
 ##Embed in GitHub Pages (Static Website)
+---
 https://harshithak01.github.io/Art-Career-Insights-platform/dashboard.html
 
 ##Contribution
